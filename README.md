@@ -41,4 +41,4 @@ WeatherAPI.com – Data provider for current weather and forecast
 
 5. Alerts are shown for wind speeds above 30 km/h or if rain is expected.
 
-📦 Live Demo - 
+📦 Live Demo - https://weather-app-steel-six-26.vercel.app/
